@@ -1,0 +1,13 @@
+/* Bundled Google Noto fonts: SIL Open Font License 1.1. See assets/fonts/. */
+@font-face{font-family:'CauNoi Sans';src:url('fonts/NotoSans.woff') format('woff');font-style:normal;font-weight:100 900;font-display:swap}
+@font-face{font-family:'CauNoi Serif';src:url('fonts/NotoSerif.woff') format('woff');font-style:normal;font-weight:100 900;font-display:swap}
+@font-face{font-family:'CauNoi Serif';src:url('fonts/NotoSerif-Italic.woff') format('woff');font-style:italic;font-weight:100 900;font-display:swap}
+:root{--serif:'CauNoi Serif',Georgia,'Times New Roman',serif;--sans:'CauNoi Sans','Segoe UI',Arial,sans-serif;font-family:var(--sans)}
+body,button,input,select,textarea{font-family:var(--sans)}
+h1,h2,.brand-wordmark>span{font-family:var(--serif)}
+h1{line-height:1.3;letter-spacing:-.025em}h2{line-height:1.4;letter-spacing:-.015em}
+button,input,select,textarea{line-height:1.6}button{white-space:normal}
+svg text{font-family:var(--sans)}
+.paper-prompts{padding-left:1.4rem}.paper-prompts li{margin:.8rem 0}.paper-prompts p{margin:.2rem 0}
+.web-notes{margin:1rem 0}.web-notes summary{cursor:pointer;padding:.6rem 0}
+@media print{body{font-family:var(--sans)}h1,h2{font-family:var(--serif)}}

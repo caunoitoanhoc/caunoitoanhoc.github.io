@@ -1,0 +1,25 @@
+{
+  "name": "Cầu nối Toán học",
+  "short_name": "Cầu nối",
+  "lang": "vi",
+  "description": "Học liệu tương tác Toán 9: hiểu tình huống, lập mô hình và kiểm tra kết quả.",
+  "start_url": "./index.html#/home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f0",
+  "theme_color": "#285b48",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
