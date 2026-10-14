@@ -13,6 +13,9 @@ Học liệu tương tác giúp học sinh lớp 9 tự đi từ câu chữ củ
 
 ## Dự án
 Dự án Khoa học Kỹ thuật, lĩnh vực Toán học.
+
 Người thực hiện: Phan Hoàng An Nhiên · Người hướng dẫn: Nguyễn Việt Hoàng
+
 Trường THCS Nguyễn An Khương, Xã Hóc Môn, TPHCM.
+
 Cuộc thi khoa học kỹ thuật cấp thành phố dành cho học sinh trung học tại TP.HCM năm học 2026-2027
